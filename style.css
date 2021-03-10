@@ -31,7 +31,7 @@ body
 	font: italic small-caps bolder 19px/3 cursive;
 	color: white;
 }
-#comp
+.comp
 {
 	margin-left:0;
 	margin-right:80px;
